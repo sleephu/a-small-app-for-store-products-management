@@ -1,8 +1,8 @@
-a-small-app-for-store-products-management
+Small App for Store Product Management
 =========================================
 Develop Environment: Xcode 5
 Language: objective-c
 
-a small app for store products management
+It is a small app for store product management.
 
-using CoreData framework to persist data
+CoreData framework was used to persist data
